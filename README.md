@@ -1,2 +1,11 @@
-# Coconut-Industry-Board-Prototype
-This repository contains the prototype for the Coconut Industry Board's website, as a part of the final assignment for INFO3435- E-commerce.
+
+  # Coconut Industry Board Website Prototype
+
+  This is a code bundle for Coconut Industry Board Website Prototype. The original project is available at https://www.figma.com/design/kWkCIpIBEFNiJdxG4aS2dQ/Coconut-Industry-Board-Website-Prototype.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
